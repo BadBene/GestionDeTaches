@@ -19,7 +19,7 @@ import javax.validation.constraints.Size;
  */
 
 @Entity
-public class Utilisateur implements Serializable {
+public class Utilisateur {
 
     /**
      * identifiant de l'utilisateur auto-incremente
