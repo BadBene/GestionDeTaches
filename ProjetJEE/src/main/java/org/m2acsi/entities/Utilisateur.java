@@ -13,7 +13,7 @@ import javax.validation.constraints.Size;
 
 /**
  * Classe entite de l'utilisateur
- * 
+ * 2
  * 
  * @author Gauthier Robert & Loic Mathias
  */
